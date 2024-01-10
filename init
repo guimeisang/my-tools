@@ -1,0 +1,27 @@
+
+# 请为您的变更输入提交说明。以 '#' 开始的行将被忽略，而一个空的提交
+# 说明将会终止提交。
+#
+# 位于分支 lerna+rollup
+# 要提交的变更：
+#	新文件：   .gitignore
+#	新文件：   .yarnrc
+#	新文件：   babel.config.js
+#	新文件：   lerna.json
+#	新文件：   packages/canvas2video/.gitignore
+#	新文件：   packages/canvas2video/demo/audio.html
+#	新文件：   packages/canvas2video/demo/index.html
+#	新文件：   packages/canvas2video/demo/mp4.html
+#	新文件：   packages/canvas2video/dist/canvas2video.js
+#	新文件：   packages/canvas2video/package.json
+#	新文件：   packages/canvas2video/src/index.ts
+#	新文件：   packages/canvas2video/src/type.ts
+#	新文件：   packages/canvas2video/tsconfig.json
+#	新文件：   packages/canvas2video/webpack.config.js
+#	新文件：   packages/components/componentA/index.jsx
+#	新文件：   packages/components/componentA/index.scss
+#	新文件：   packages/components/componentB/index.jsx
+#	新文件：   packages/components/componentB/index.scss
+#	新文件：   packages/main.js
+#	新文件：   rollup.config.js
+#
